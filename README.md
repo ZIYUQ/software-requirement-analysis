@@ -33,7 +33,6 @@ In this project, the students will design a solution to replace the Excel spread
 
     ├── data samples    # Necessary input documents to simulate/demonstrate the prototype
     ├── docs   # Contains requirement elicitation documentation
-        ├── meeting minutes # Meeting minute documentation
         ├── requirements    # Requirement Elicitation documentation
     ├── prototypes
         ├── low fidelity    # Low fidelity files (screens, mockups, etc.)
