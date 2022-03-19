@@ -48,3 +48,7 @@ In this project, the students will design a solution to replace the Excel spread
 
 - Project Overview
 - Requirements Elicitation
+
+## Notes
+
+- There is currently a `.gitignore` in a few directories to support empty directories being pushed to GitHub. These `.gitignore` files will be removed as information is pushed to each directory in future sprints.
