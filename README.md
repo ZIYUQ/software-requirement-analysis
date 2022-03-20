@@ -13,6 +13,9 @@
     <li>
         <a href="#changelog">Changelog</a>
     </li>
+    <li>
+        <a href="#contact">Contact</a>
+    </li>
   </ol>
 </details>
 <br />
@@ -51,3 +54,15 @@ In this project, the students will design a solution to replace the Excel spread
 ## Notes
 
 - There is currently a `.gitignore` in a few directories to support empty directories being pushed to GitHub. These `.gitignore` files will be removed as information is pushed to each directory in future sprints.
+
+## Contact
+* James Hollingsworth 
+  * jhollingswor@student.unimelb.edu.au
+* Arpit Bajaj           
+  * bajaja@student.unimelb.edu.au
+* Emaad Beig
+  * mbeig@student.unimelb.edu.au
+* Gonzalo Molina
+  * gmolina@student.unimelb.edu.au
+* Ziyu Qian
+  * ziyuq@student.unimelb.edu.au
