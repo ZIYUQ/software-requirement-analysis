@@ -57,6 +57,7 @@ In this project, the students will design a solution to replace the Excel spread
 
 ## Contact
 * James Hollingsworth 
+  * jhollingswor@student.unimelb.edu.au
 * Arpit Bajaj           
   * bajaja@student.unimelb.edu.au
 * Emaad Beig
