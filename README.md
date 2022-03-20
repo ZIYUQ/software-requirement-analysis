@@ -8,10 +8,13 @@
       <a href="#introduction">Introduction</a>
     </li>
     <li>
-      <a href="#folder structure">Folder Structure</a>
+      <a href="#directories">Directories</a>
     </li>
     <li>
         <a href="#changelog">Changelog</a>
+    </li>
+    <li>
+        <a href="#notes">Notes</a>
     </li>
     <li>
         <a href="#contact">Contact</a>
@@ -32,7 +35,7 @@ In this project, the students will design a solution to replace the Excel spread
 
 <br/>
 
-## Folder Structure
+## Directories
 
     ├── data samples    # Necessary input documents to simulate/demonstrate the prototype
     ├── docs   # Contains requirement elicitation documentation
@@ -56,13 +59,14 @@ In this project, the students will design a solution to replace the Excel spread
 - There is currently a `.gitignore` in a few directories to support empty directories being pushed to GitHub. These `.gitignore` files will be removed as information is pushed to each directory in future sprints.
 
 ## Contact
-* James Hollingsworth 
-  * jhollingswor@student.unimelb.edu.au
-* Arpit Bajaj           
-  * bajaja@student.unimelb.edu.au
-* Emaad Beig
-  * mbeig@student.unimelb.edu.au
-* Gonzalo Molina
-  * gmolina@student.unimelb.edu.au
-* Ziyu Qian
-  * ziyuq@student.unimelb.edu.au
+
+- James Hollingsworth
+  - jhollingswor@student.unimelb.edu.au
+- Arpit Bajaj
+  - bajaja@student.unimelb.edu.au
+- Emaad Beig
+  - mbeig@student.unimelb.edu.au
+- Gonzalo Molina
+  - gmolina@student.unimelb.edu.au
+- Ziyu Qian
+  - ziyuq@student.unimelb.edu.au
