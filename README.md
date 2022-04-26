@@ -54,6 +54,21 @@ In this project, the students will design a solution to replace the Excel spread
 - Project Overview
 - Requirements Elicitation
 
+**Sprint 2**:
+
+- Who/Do/Be/Feel Table
+- Motivational Model
+- Personas
+
+**Sprint 3**
+
+- Updated Who/Do/Be/Feel Table to reflect feedback
+- Updated Motivational Model to reflect feedback
+- User Stories
+- User Story Map
+- Low Fidelity Prototype
+- The personas were not updated as a part of Sprint 3, they will be updated in a future sprint to reflect updates to the Do/Be/Feel table
+
 ## Notes
 
 - There is currently a `.gitignore` in a few directories to support empty directories being pushed to GitHub. These `.gitignore` files will be removed as information is pushed to each directory in future sprints.
