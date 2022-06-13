@@ -78,6 +78,11 @@ In this project, the students will design a solution to replace the Excel spread
 - Usability Test
 - Usability Test Feedback
 
+**Sprint 5**
+
+- Release Notes
+- Figma (prototype) Access
+
 ## Contact
 
 - James Hollingsworth
